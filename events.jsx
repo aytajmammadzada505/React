@@ -7,7 +7,7 @@ export default function App() {
     return (
         <div style={{ padding: "20px" }}>
             <button onClick={handleNextClick}>Salamla!</button>
-            <button onClick={() => console.log("Düyməyə kliklənildi!")}>
+            <button onClick={() => console.log("konsola yazildi")}>
                 Konsola yaz
             </button>
         </div>
