@@ -2,7 +2,6 @@
 export default function App() {
     const handleNextClick = () => {
         alert("Salam");
-        console.log("indeks deyisdi", currentIndex);
     };
 
     return (
